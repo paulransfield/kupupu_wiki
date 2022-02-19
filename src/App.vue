@@ -2,7 +2,7 @@
   <div id="app">
     <div class="max-w-screen-sm mx-auto px-2 mb-6 min-h-screen">
       <div class="mt-3 text-3xl italic">
-        WikiWordle
+        Wiki-Kupupū
       </div>
 
       <div v-if="loading"
@@ -36,9 +36,9 @@
 
     <div class="text-sm text-center mt-12 mb-5">
       Created by
-      <a href="https://www.timcieplowski.com/" target="_blank"
+      <a href="https://www.kapaigroup.net/" target="_blank"
       class="text-blue-800 hover:text-blue-500">
-        Tim Cieplowski
+        kapaigroup.net
         &nearr;
       </a>
     </div>
