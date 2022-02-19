@@ -1,6 +1,6 @@
 # WikiWordle
 
-Live: [wikiwordle.timcieplowski.com](https://wikiwordle.timcieplowski.com)
+Live: [tender-neumann-74e127.netlify.app](https://tender-neumann-74e127.netlify.app/)
 
 A [Wikipedia](https://en.wikipedia.org) article guessing game.
 
